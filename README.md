@@ -2,4 +2,6 @@
 GOES SATELLITE IMAGE
 View satellite image on phone
 
-Check on release
+Check on releases
+
+Made in Viet Nam by SpaceGenZ
